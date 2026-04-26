@@ -1,0 +1,1 @@
+The rebase.py script allows you to upload only Fasta format DNA file as input. Then you will be asked for the output file selection. When you do it wait 2-3 minutes for creation restriction enzymes analysis file to be saved.
